@@ -1,5 +1,5 @@
 ### 
-![](https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif)
 
 <!--
 **PrinceSharzeel/PrinceSharzeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
